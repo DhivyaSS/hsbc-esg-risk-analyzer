@@ -5,3 +5,6 @@ streamlit
 sqlalchemy
 matplotlib
 joblib
+fpdf
+plotly
+openpyxl
